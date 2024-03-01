@@ -1,7 +1,10 @@
-#JUEGO MAZE RUNNER 
+# JUEGO MAZE RUNNER 
+
 
 public class MazeRunner {
+
     public static String walk(int[][] maze, String[] directions) {
+    
         int row = -1, col = -1; //Indica posición no encontrada o no válida, ya que matriz empieza en 0
 
        //Encontrar la posición inicial 

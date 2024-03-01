@@ -55,9 +55,8 @@ public class MazeRunner {
                 return "Dead";
             }
         }
-~~~
-
         //Si se ha completado el recorrido de todas las direcciones sin llegar al punto final, jugador está perdido
         return "Lost";
     }
 }
+~~~

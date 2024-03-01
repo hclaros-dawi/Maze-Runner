@@ -1,7 +1,5 @@
 # JUEGO MAZE RUNNER 
 
-
-
 public class MazeRunner {
 
     public static String walk(int[][] maze, String[] directions) {
